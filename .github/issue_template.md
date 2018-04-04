@@ -1,8 +1,5 @@
-<!--- Provide a general summary of the issue in the Title above -->
-
 ## Summary / Goal
-<!--- Briefly describe the problem, and what you're trying to accomplish -- -->
-<!--- there may be a known workaround to the issue -->
+<!--- Briefly describe the problem, and what you're trying to accomplish -->
 
 ## Expected Behavior
 <!--- What should be happening, but isn't? -->
@@ -11,11 +8,8 @@
 <!--- What is happening instead of the expected behavior? -->
 
 ## Steps to Reproduce
-<!--- Provide a link to a live example, or an unambiguous set of steps to -->
-<!--- reproduce this bug. Include a minimal working example, if at all possible. -->
-
-<!--- Small code snippets can be surrounded with `backticks`, -->
-<!--- larger ones should be put in a gist-->
+<!--- If you can provide a small model or test case that demonstrates the issue, it will be much easier to debug. -->
+<!--- Small code snippets can be surrounded with `backticks`, larger ones should be put in a gist (gist.github.com) -->
 
 1.
 2.
@@ -24,6 +18,6 @@
 
 ## Environment
 
-* **OSATE Version**: <!-- compulsory. you must provide your version -->
+* **OSATE Version**:
 * **Subsystem**: <!-- Is a particular annex or plugin is involved? -->
 * **Platform**: <!-- Windows / Mac / Linux and version number -->
