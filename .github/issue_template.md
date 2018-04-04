@@ -1,5 +1,5 @@
 ## Summary / Goal
-<!--- Briefly describe the problem, and what you're trying to accomplish -->
+<!--- Briefly describe the problem, and what you're trying to accomplish. Screenshots or other files should be attached directly to this issue. -->
 
 ## Expected Behavior
 <!--- What should be happening, but isn't? -->
